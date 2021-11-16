@@ -15,6 +15,7 @@ import android.widget.LinearLayout;
 import android.widget.TextView;
 import android.widget.Toast;
 //changed by mani
+//changed Rasheed
 public class MainActivity extends AppCompatActivity {
     EditText mail,pass_word,name;
    LinearLayout button;
